@@ -22,10 +22,10 @@ Here are some screenshots of the CatVpn application:
 ### Connect to Server
 ![Connect to Server](https://via.placeholder.com/400x300.png?text=Connect+to+Server)
 
-### Connection Status
+### UpdateConfig
 ![Connection Status](https://via.placeholder.com/400x300.png?text=Connection+Status)
 
-### Settings
+### Accout
 ![Settings](https://via.placeholder.com/400x300.png?text=Settings)
 
 ## Contributing
