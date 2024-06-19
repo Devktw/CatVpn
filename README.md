@@ -14,22 +14,20 @@ CatVpn is a powerful and user-friendly VPN application built using Flutter. It l
 Here are some screenshots of the CatVpn application:
 
 ### Home Screen
-![Home Screen](https://via.placeholder.com/400x300.png?text=Home+Screen)
+![Home Screen](https://github.com/Devktw/CatVpn/raw/main/Screenshot_2024-06-19-20-51-39-00_92d758e615cc42d8187b74fc70ffe35f.jpg)
 
 ### Server List
-![Server List](https://via.placeholder.com/400x300.png?text=Server+List)
+![Server List](https://github.com/Devktw/CatVpn/raw/main/Screenshot_2024-06-19-20-51-48-94_92d758e615cc42d8187b74fc70ffe35f.jpg)
 
 ### Connect to Server
-![Connect to Server](https://via.placeholder.com/400x300.png?text=Connect+to+Server)
+![Connect to Server](https://github.com/Devktw/CatVpn/raw/main/Screenshot_2024-06-19-20-51-45-86_92d758e615cc42d8187b74fc70ffe35f.jpg)
 
 ### UpdateConfig
-![Connection Status](https://via.placeholder.com/400x300.png?text=Connection+Status)
+![Connection Status](https://github.com/Devktw/CatVpn/raw/main/Screenshot_2024-06-19-20-53-01-22_92d758e615cc42d8187b74fc70ffe35f.jpg)
 
 ### Accout
-![Settings](https://via.placeholder.com/400x300.png?text=Settings)
+![Settings](https://github.com/Devktw/CatVpn/raw/main/Screenshot_2024-06-19-20-51-56-06_92d758e615cc42d8187b74fc70ffe35f.jpg)
 
-## Contributing
-We welcome contributions to enhance CatVpn. Please fork the repository and create a pull request to submit your changes.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
