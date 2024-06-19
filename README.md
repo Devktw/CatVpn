@@ -1,6 +1,9 @@
 # CatVpn
 Vpn V2ray by kathawut powered by flutter
 
+## Library
+https://github.com/blueboy-tm/flutter_v2ray
+
 ## Introduction
 CatVpn is a powerful and user-friendly VPN application built using Flutter. It leverages the V2Ray protocol to ensure secure and fast internet connectivity.
 
